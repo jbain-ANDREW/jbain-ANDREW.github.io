@@ -1,5 +1,6 @@
 <!-- Fomratting adds Name at top-->
 
+James A. Bain
 Professor  
 Electrical and Computer Engineering  
 Carnegie Mellon University  
