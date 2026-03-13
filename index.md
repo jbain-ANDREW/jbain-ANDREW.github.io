@@ -1,4 +1,4 @@
-# James A. Bain
+<!-- Fomratting adds Name at top-->
 
 Professor  
 Electrical and Computer Engineering  
