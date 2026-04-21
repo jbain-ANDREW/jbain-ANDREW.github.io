@@ -2,6 +2,7 @@ title: James A. Bain
 theme: minima
 
 header_pages:
+  - bio.md
   - research.md
   - teaching.md
   - students.md
