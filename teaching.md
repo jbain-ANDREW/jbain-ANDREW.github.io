@@ -1,4 +1,7 @@
-# Teaching
+---
+layout: page
+title: Teaching
+---
 
 ## Current Courses (Primary Instructor)
 
@@ -7,7 +10,7 @@
 ## Past Courses as Instructor or Co-Instructor
 
 - 18-240
- 
+
 ## Teaching Philosophy
 
 My goal is to create hands-on learning experiences that connect theory with practical engineering design.

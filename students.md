@@ -1,4 +1,7 @@
-# Students
+---
+layout: page
+title: Students
+---
 
 ## Current Students
 

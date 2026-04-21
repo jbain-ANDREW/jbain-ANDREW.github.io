@@ -1,4 +1,7 @@
-# Curriculum Vitae
+---
+layout: page
+title: CV
+---
 
 A full CV is available here:
 

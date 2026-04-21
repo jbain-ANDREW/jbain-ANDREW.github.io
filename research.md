@@ -1,4 +1,7 @@
-# Research
+---
+layout: page
+title: Research
+---
 
 My research focuses on:
 
