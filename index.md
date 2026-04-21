@@ -1,7 +1,16 @@
 ---
 layout: page
+title: Bio
 ---
 
-Professor, Electrical and Computer Engineering, Carnegie Mellon University
+![James A. Bain](assets/images/jbain.jpg){: style="float: right; margin: 0 0 1em 2em; width: 220px; border-radius: 4px;"}
 
-My work spans optical and electronic systems, computing architectures, and engineering education. Use the links above to learn more about my [research](research), [teaching](teaching), and [students](students).
+James A. Bain is a Professor in the Department of Electrical and Computer Engineering at Carnegie Mellon University.
+
+[Your background paragraph — where you trained, how long you've been at CMU, any leadership roles.]
+
+[Your research focus in plain language — what problems you work on and why they matter.]
+
+[Optional: a sentence or two on teaching philosophy or mentoring approach.]
+
+[Optional: personal note — interests outside the lab, connection to Pittsburgh, etc.]
